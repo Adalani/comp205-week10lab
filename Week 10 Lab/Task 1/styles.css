@@ -1,0 +1,22 @@
+.head-1 {
+    font-style: bold;
+    font-size: 32px;
+    font-family: Georgia;
+}
+
+.subhead-1 {
+    font-size: 18px;
+    color: blue;
+    font-family: Georgia;
+}
+
+.p-1 {
+    font-size: 16px;
+    font-family: Georgia;
+    text-align: center;
+}
+
+.p-2 {
+    color: #FB8F23;
+    text-align: left;
+}
